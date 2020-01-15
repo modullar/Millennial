@@ -31,7 +31,7 @@ There is a big dispute in the US and the west whether the killing of Soleimani i
 It is a practice in Iran that the regime put the American and the Israeli flag on the floor so people would on them. People have been protesting this behavious by avoiding to stepping on the flags.
 
 
-```
+```{r echo=FALSE}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You see this picture? This isn&#39;t a university in Tehran. It&#39;s a mosque in Ahvaz, a city southeastern Iran with 1.2 million. <br><br>They put those flags there to make sure people disrespect them. But they didn&#39;t.<br><br>Why?Because Iranians don&#39;t want Americans or Israelis to be our enemies. <a href="https://t.co/yxlyXjlcab">pic.twitter.com/yxlyXjlcab</a></p>&mdash; Arash Azizi (@arash_tehran) <a href="https://twitter.com/arash_tehran/status/1217497207324184579?ref_src=twsrc%5Etfw">January 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
