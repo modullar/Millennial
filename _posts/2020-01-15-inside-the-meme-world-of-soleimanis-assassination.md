@@ -40,4 +40,5 @@ It is a practice in Iran that the regime puts the American and the Israeli flag 
 
 &nbsp;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aNJLG8jCq1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aNJLG8jCq1Q/0.jpg)](https://www.youtube.com/watch?v=aNJLG8jCq1Q)
+
