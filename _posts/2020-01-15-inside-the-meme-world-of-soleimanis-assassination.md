@@ -16,6 +16,6 @@ On the other hand, Many from the middle east are praising the death of Soleimani
 
 Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-10-at-01-14-31.png){: width="914" height="442"}
 
-![](/uploads/screenshot-2020-01-10-at-00-58-08.png){: width="2246" height="1198"}
+![](/uploads/screenshot-2020-01-10-at-01-16-33.png){: width="2264" height="1202"}
 
 &nbsp;
