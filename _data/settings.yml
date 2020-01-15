@@ -21,7 +21,7 @@ menu:
   - name: Drugs
     folder: pages
     file: contact.html
-  - name: Weird Experiments
+  - name: Experiments
     folder: pages
     file: experiments.html
 social:
