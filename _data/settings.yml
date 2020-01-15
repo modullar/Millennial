@@ -9,18 +9,21 @@ menu:
   - name: Culture
     folder: pages
     file: resources.html
-  - name: Sample Posts
+  - name: Music
     folder: pages
     file: sample-posts.html
-  - name: Documentation
+  - name: Tech
     folder: pages
     file: documentation.html
-  - name: About
+  - name: Sex
     folder: pages
     file: about.html
-  - name: Contact
+  - name: Drugs
     folder: pages
     file: contact.html
+  - name: Weird Experiments
+    folder: pages
+    file: experiments.html
 social:
   - icon: twitter
     link: 'https://twitter.com/paululele'
