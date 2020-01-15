@@ -18,6 +18,4 @@ Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-
 
 ![](/uploads/screenshot-2020-01-10-at-01-16-33.png)
 
-Here's another photoshoped picture of an originally photoshoped one made by Soleimani's loyalists featuring him in heaven. The image shows a contraversial Syrian singer named Omar Soleiman welcoming Soleimani's in the after life.
-
-![](/uploads/screenshot-2020-01-10-at-01-11-17.png){: width="1576" height="1070"}
+Here's another photoshopped picture of an originally photoshopped one made by Soleimani's loyalists featuring him in heaven. The image shows a controversial Syrian singer named Omar Soleiman welcoming Soleimani's in the afterlife.<br>![](/uploads/screenshot-2020-01-10-at-01-11-17.png){: width="1576" height="1070"}
