@@ -5,7 +5,7 @@ google-ID: UA-112060364-2
 menu:
   - name: Geopolitics
     folder: pages
-    file: facts.html
+    file: geopolitics.html
   - name: Culture
     folder: pages
     file: resources.html
