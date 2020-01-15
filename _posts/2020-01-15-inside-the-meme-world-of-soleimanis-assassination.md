@@ -40,5 +40,5 @@ It is a practice in Iran that the regime puts the American and the Israeli flag 
 
 &nbsp;
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aNJLG8jCq1Q/0.jpg)](https://www.youtube.com/watch?v=aNJLG8jCq1Q)
+[![](http://img.youtube.com/vi/aNJLG8jCq1Q/0.jpg)](http://www.youtube.com/watch?v=aNJLG8jCq1Q "Iranian students avoid stepping on images of U.S., Israeli flags")
 
