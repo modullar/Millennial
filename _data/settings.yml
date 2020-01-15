@@ -6,7 +6,7 @@ menu:
   - name: Geopolitics
     folder: pages
     file: facts.html
-  - name: Learning Resources
+  - name: Culture
     folder: pages
     file: resources.html
   - name: Sample Posts
