@@ -30,8 +30,7 @@ It is a practice in Iran that the regime puts the American and the Israeli flag 
 
 \`\`
 
-> You see this picture? This isn't a university in Tehran. It's a mosque in Ahvaz, a city southeastern Iran with 1.2 million.<br><br>They put those flags there to make sure people disrespect them. But they didn't.<br><br>Why?Because Iranians don't want Americans or Israelis to be our enemies. [pic.twitter.com/yxlyXjlcab](https://t.co/yxlyXjlcab)
-> — Arash Azizi (@arash\_tehran) [January 15, 2020](https://twitter.com/arash_tehran/status/1217497207324184579?ref_src=twsrc%5Etfw)
+> You see this picture? This isn’t a university in Tehran. It’s a mosque in Ahvaz, a city southeastern Iran with 1.2 million.<br><br>They put those flags there to make sure people disrespect them. But they didn’t.<br><br>Why?Because Iranians don’t want Americans or Israelis to be our enemies. [pic.twitter.com/yxlyXjlcab](https://t.co/yxlyXjlcab) — Arash Azizi (@arash\_tehran) [January 15, 2020](https://twitter.com/arash_tehran/status/1217497207324184579?ref_src=twsrc%5Etfw)
 {: .twitter-tweet}
 
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -40,4 +39,6 @@ It is a practice in Iran that the regime puts the American and the Israeli flag 
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aNJLG8jCq1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A recent video showed students of Tehran university avoid stepping on Israeli and American flags that are being put by the authority.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aNJLG8jCq1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
