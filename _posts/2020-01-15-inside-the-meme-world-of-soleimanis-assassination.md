@@ -30,7 +30,8 @@ There is a big dispute in the US and the west whether the killing of Soleimani i
 
 It is a practice in Iran that the regime put the American and the Israeli flag on the floor so people would on them. People have been protesting this behavious by avoiding to stepping on the flags.
 
-```
+
+```{r echo=FALSE}
 blogdown::shortcode('tweet', '1217497207324184579')
 ```
 
