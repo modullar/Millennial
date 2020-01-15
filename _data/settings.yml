@@ -11,10 +11,10 @@ menu:
     file: culture.html
   - name: Music
     folder: pages
-    file: sample-posts.html
+    file: music.html
   - name: Tech
     folder: pages
-    file: music.html
+    file: tech.html
   - name: Sex
     folder: pages
     file: sex.html
