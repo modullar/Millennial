@@ -7,7 +7,7 @@ categories:
   - facts
 tags:
   - geopolitics
-image: /assets/img/sol.jpg
+image: /assets/img/city-1.jpg
 ---
 
 The killing of Soleimani spawned lots of reactions around the world. Many saw the operation as an illegal and irresponsible action by Trump that could set the whole middle east on fire.
