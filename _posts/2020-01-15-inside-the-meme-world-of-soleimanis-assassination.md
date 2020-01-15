@@ -24,11 +24,7 @@ Another picture showed a Soleimani’s militant with a rocket shouting “Death 
 
 ![](/uploads/screenshot-2020-01-10-at-01-31-42.png)
 
-&nbsp;
-
 There is a big dispute in the US and the west whether the killing of Soleimani is the right thing to do or not, and despite the enormous anger that this operation caused for people in the middle east, the picture there is quite different. Many Iranians along Iraqis and Syrians cheer up the operation and in Iran people went to the street to demonstrate their regime. The sees that their government is promoting anti-American propaganda that they think this is not in their national interest.
-
-&nbsp;
 
 It is a practice in Iran that the regime puts the American and the Israeli flag on the ground so people would on them. People have been protesting this behavior by avoiding stepping on the flags.
 
@@ -41,3 +37,7 @@ It is a practice in Iran that the regime puts the American and the Israeli flag 
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 \`\`\`
+
+&nbsp;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aNJLG8jCq1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
