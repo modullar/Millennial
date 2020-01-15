@@ -4,6 +4,7 @@ title: Inside The Meme World Of Soleimani's Assassination
 author: Heron
 categories:
   - geopolitics
+  - facts
 tags:
   - geopolitics
 image: /uploads/comica1579120314732.jpg
@@ -15,6 +16,6 @@ On the other hand, Many from the middle east are praising the death of Soleimani
 
 Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-10-at-01-14-31.png){: width="914" height="442"}
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/screenshot-2020-01-10-at-00-58-08.png){: width="2246" height="1198"}
+![](/uploads/screenshot-2020-01-10-at-00-58-08.png){: width="2246" height="1198"}
 
 &nbsp;
