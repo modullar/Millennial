@@ -8,19 +8,19 @@ menu:
     file: geopolitics.html
   - name: Culture
     folder: pages
-    file: resources.html
+    file: culture.html
   - name: Music
     folder: pages
     file: sample-posts.html
   - name: Tech
     folder: pages
-    file: documentation.html
+    file: music.html
   - name: Sex
     folder: pages
-    file: about.html
+    file: sex.html
   - name: Drugs
     folder: pages
-    file: contact.html
+    file: drugs.html
   - name: Experiments
     folder: pages
     file: experiments.html
