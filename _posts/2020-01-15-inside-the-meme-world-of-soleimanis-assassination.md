@@ -14,8 +14,8 @@ The killing of Soleimani spawned lots of reactions around the world. Many saw th
 
 On the other hand, Many from the middle east are praising the death of Soleimani. The fact is that Soleimani was responsible through his militias of the death of hundreds of thousands of human beings in Iraq, Iran, and Syria. Many people in the middle east consider his death as a relief. People start to circulate memes all over social media praising the operation.
 
-Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-10-at-01-14-31.png){: width="914" height="442"}
+Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-10-at-01-14-31.png){}
 
-![](/uploads/screenshot-2020-01-10-at-01-16-33.png){: width="2264" height="1202"}
+![](/uploads/screenshot-2020-01-10-at-01-16-33.png){}
 
 &nbsp;
