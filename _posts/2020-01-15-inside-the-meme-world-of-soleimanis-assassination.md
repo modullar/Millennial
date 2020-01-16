@@ -16,9 +16,9 @@ On the other hand, Many from the middle east are praising the death of Soleimani
 
 &nbsp;
 
-![](/uploads/screenshot-2020-01-08-at-14-52-23.png){: width="998" height="1110"}
+![](/uploads/screenshot-2020-01-08-at-14-52-23.png)
 
-![](/uploads/screenshot-2020-01-16-at-13-48-51.png){: width="1450" height="1040"}
+![](/uploads/screenshot-2020-01-16-at-13-48-51.png)
 
 &nbsp;
 
