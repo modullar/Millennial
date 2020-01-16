@@ -28,7 +28,7 @@ Some found the event a good start into 2020.<br>![](/uploads/screenshot-2020-01-
 
 ![](/uploads/screenshot-2020-01-10-at-01-16-33.png)
 
-Here’s another photoshopped picture of an originally photoshopped one made by Soleimani’s loyalists featuring him in heaven. The image shows a controversial Syrian singer named \[Omar Soleiman\]([https://www.vice.com/en\_au/article/rqe85r/omar-souleyman-interview-dabke](https://www.vice.com/en_au/article/rqe85r/omar-souleyman-interview-dabke)) welcoming Soleimani’s in the afterlife.<br>![](/uploads/screenshot-2020-01-10-at-01-11-17.png)
+Here’s another photoshopped picture of an originally photoshopped one made by Soleimani’s loyalists featuring him in heaven. The image shows a controversial Syrian singer named (Omar Soleiman)\[[https://www.vice.com/en\_au/article/rqe85r/omar-souleyman-interview-dabke](https://www.vice.com/en_au/article/rqe85r/omar-souleyman-interview-dabke)\] welcoming Soleimani’s in the afterlife.<br>![](/uploads/screenshot-2020-01-10-at-01-11-17.png)
 
 Another picture showed a Soleimani’s militant with a rocket shouting “Death to America” and Trump mocking him with “Ooops I’m dead now”
 
