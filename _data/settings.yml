@@ -1,5 +1,5 @@
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: millennial-3
 google-ID: UA-112060364-2
 menu:
