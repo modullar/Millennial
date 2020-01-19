@@ -26,13 +26,13 @@ menu:
     file: experiments.html
 social:
   - icon: twitter
-    link: '#'
+    link: 'https://twitter.com/TheDistinctor'
   - icon: facebook
-    link: '#'
+    link: 'https://www.facebook.com/thedistinctor'
   - icon: instagram
-    link: '#'
+    link: 'https://www.instagram.com/the_distinctor/'
   - icon: envelope
-    link: '#'
+    link: 'heron.qudsi@gmail.com'
   - icon: rss-square
     link: feed.xml
 pagination:
