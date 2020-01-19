@@ -17,7 +17,7 @@ tags:
   - Soul
   - Hip Hop
   - R&B
-image:
+image: /assets/img/player.png
 ---
 
 There's nothing better than a piece of good music being broadcasted by creative initiatives and musicians on the Internet. Whether you are a musician or not, We've identified seven online radio, we think you need to check out:
