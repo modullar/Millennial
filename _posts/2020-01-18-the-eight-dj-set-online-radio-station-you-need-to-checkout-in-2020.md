@@ -1,9 +1,10 @@
 ---
 layout: post
-title: The Seven DJ Set Online Radio Station You Need to Checkout in 2020
+title: The Eight DJ Set Online Radio Station You Need to Checkout in 2020
 author: Heron
 categories:
   - Music
+  - music
 tags:
   - Music
   - Techno
@@ -28,3 +29,4 @@ There's nothing better than a piece of good music being broadcasted by creative 
 5. **[Seoul Community Radio](https://www.seoulcommunityradio.com/landing){: target="_blank"}\:&nbsp;**It's an independent underground community that streams a wide range of neat stuff.
 6. **[TweakFM](http://www.tweakfm.com/){: target="_blank"}\:&nbsp;**And yes from Copenhagen, TweakFM brings us the best of electronic music(Detroit, Berlin, Chicago, Den Haag, and classix). It's weekly streaming that is being broadcasted in the Copenhagen metro area. The archive is available online too.
 7. **[RinseFM](https://rinse.fm/){: target="_blank"}\:&nbsp;**This radio gets us vast sets of underground music. It's a big community that many creative underground artists are contributing to it.
+8. **[The Remedy:](https://fm-karuizawa.co.jp/remedy/){: target="_blank"}&nbsp;**Every Saturday, an amazing selection of music is being streamed by this Japanese based radio. You can check the archive on [MixCloud](https://www.mixcloud.com/Dr_Rob/){: target="_blank"}.
