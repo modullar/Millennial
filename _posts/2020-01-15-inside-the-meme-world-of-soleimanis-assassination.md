@@ -7,6 +7,12 @@ categories:
   - facts
 tags:
   - geopolitics
+  - Iran
+  - suleimani
+  - USA
+  - House
+  - Strike
+  - Poiltics
 image: sol.jpg
 ---
 
