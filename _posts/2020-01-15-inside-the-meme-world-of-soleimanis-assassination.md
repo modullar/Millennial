@@ -3,7 +3,6 @@ layout: post
 title: Inside The Meme World Of Soleimani's Assassination
 author: Heron
 categories:
-  - facts
 tags:
   - geopolitics
   - Iran
