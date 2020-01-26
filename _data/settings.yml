@@ -24,6 +24,9 @@ menu:
   - name: Experiments
     folder: pages
     file: experiments.html
+  - name: Aesthetics
+    folder: aesthetics
+    file: aesthetics.htmls
 social:
   - icon: twitter
     link: 'https://twitter.com/TheDistinctor'
@@ -32,7 +35,7 @@ social:
   - icon: instagram
     link: 'https://www.instagram.com/the_distinctor/'
   - icon: envelope
-    link: 'heron.qudsi@gmail.com'
+    link: heron.qudsi@gmail.com
   - icon: rss-square
     link: feed.xml
 pagination:
