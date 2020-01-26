@@ -3,9 +3,6 @@ disqus:
   disqus_shortname: millennial-3
 google-ID: UA-156361432-1
 menu:
-  - name: Geopolitics
-    folder: pages
-    file: geopolitics.html
   - name: Culture
     folder: pages
     file: culture.html
